@@ -19,6 +19,9 @@ from .lambda_func import *
 
 from .mintazh2 import *
 
+from .mintazh3 import *
+
+from .zh4 import *
 #==============================================================#
 #==============================MAIN============================#
 #==============================================================#
@@ -134,6 +137,7 @@ def main():  # pragma: no cover
     #print("Largest in Nested List:", GetLargestElementInNestedList(nested_list))
     #print("Map Element", GetMapElement(my_list2))
     #print("Odd Numbers", GetOddNumbersFromList(my_list2))
-    MintaZH_Main()
-    MintaZH_Main2()
+    #MintaZH_Main()
+    #MintaZH_Main2()
+    MainZH4()
 
